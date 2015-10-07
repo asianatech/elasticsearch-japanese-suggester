@@ -23,7 +23,7 @@ In order to install the plugin, run:
 
 ```sh
 # In elasticsearch home directory
-bin/plugin -u https://github.com/masaruh/elasticsearch-japanese-suggester/releases/download/0.10.0/elasticsearch-japanese-suggester-0.10.0.zip -i japanese-suggester
+bin/plugin -u https://github.com/asianatech/elasticsearch-japanese-suggester/releases/download/0.10.0/elasticsearch-japanese-suggester-0.10.0.zip -i japanese-suggester
 ```
 
 ### Example
